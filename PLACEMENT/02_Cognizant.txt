@@ -1,0 +1,16 @@
+26-08-21 Elevate Interview ShortListed
+
+07-09-21 4:30 Interview
+
+Resceduled
+
+
+Genc elevate 
+Python developer role
+Introduction
+Breif project explanation
+1) constructor
+2) destructor
+3) joins
+4) multithreading
+5) program on even or odd

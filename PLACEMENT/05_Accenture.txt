@@ -1,0 +1,27 @@
+Cognitive Ability section includes:-      50Q in 50min
+   English Ability
+   Analytical Reasoning
+   Numerical Ability
+Technical Assessment Section Includes:-   40Q in 40min
+   Common Application and MS Office
+   Pseudo Code
+   Networking, Seurity and Cloud.
+Coding:-                                  2Q in 45min 
+
+
+ASE(Associate Software Engineer)  4.5 LPA
+SE( Software Engineer)            6.5 LPA
+
+
+Reading                 8 
+Repeat                  16
+Questions               24
+Sentence Build          10
+Story Retelling         3
+Open Questions          2 
+Conversations           1
+Passage Comperhension   3
+
+
+
+

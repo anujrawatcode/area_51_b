@@ -1,0 +1,74 @@
+Banned
+
+
+Round 1: Online Assessment
+ans : 25 min with 30 questions mainly on Oops, output-based, and CS fundamentals.
+
+Round 2: Technical interview
+ans : The shared screen is on a notepad.
+      He was asked to write functions in order to explain every concept asked below.
+
+https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm
+
+
+
+Duration: 40 min
+Introduce yourself
+Which language do you prefer?
+
+1. What is inheritance.?
+ans : https://www.geeksforgeeks.org/inheritance-in-c/
+
+2. Discussion around polymorphism.
+ans : https://www.geeksforgeeks.org/polymorphism-in-c/
+
+3. Types of polymorphism
+4. Explain function overloading and operator overloading.
+
+5. What is virtual function table ft.?
+ans : https://practice.geeksforgeeks.org/problems/explain-what-is-virtual-table
+
+6. How is function overriding done.?
+ans : 
+
+7. What are references in CPP.how it is used?
+ans : https://www.geeksforgeeks.org/references-in-c/
+ 
+8. How can you access heap storage?
+ans :  https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/
+
+9. What is the new and delete keyword.?
+ans :  https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/ 
+
+What is dynamic memory allocation.?
+ans : https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+
+10. Few codes he wrote and asked if there is an error in that.
+ans : 
+
+11. Static variable
+ans : https://www.geeksforgeeks.org/static-keyword-cpp/
+
+12. What is the Const keyword?
+ans : 
+
+Virtual function
+Explain the inline keywords?
+Difference between macro and inline?
+Write a function that returns the factorial of a number.?
+How do you Pass by reference.?
+
+
+
+
+
+hey have an online round in which there are 50 questions of ds and c which has to be done in 60 minutes
+
+
+What is a memory leak in c?
+What is dangling pointer in c?
+Write a program to search node in a binary search tree?
+Write a program to insert in the linked list at a given position?
+Layers of OSI model?
+Explain your projects?
+Difference between 32-bit and 64-bit processor?

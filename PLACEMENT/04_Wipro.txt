@@ -1,0 +1,233 @@
+3-Sept-2021
+
+1. Online Test ( Quants +Verbal + logical )
+2. Essay Writing
+3. Coding
+4. Interview
+
+
+WIPRO NLTH Syllabus 2022	Total Question
+Quants	                     16 Question
+Logical	                     14 Question
+English	                     22 Question
+Essay Writing	               1 Question
+Coding                     	 2 Question
+
+
+Shortlisted 09-09-2021
+
+Interview 24-09-21
+
+
+1. What are the differences between a C++ struct and C++ class?
+ans : 
+    By default, all the members of the structure are public. In contrast, all members of the class are private.
+    
+    The structure will automatically initialize its members. In contrast, constructors and destructors are used to initialize the class members.
+    
+    A structure is a value type, while a class is a reference type.
+
+    
+
+2. What is polymorphism?
+ans :
+   Polymorphism means having many forms. In simple words,
+  We can define polymorphism as the ability of a message to be displayed in more than one form.
+
+  1. Compile-time polymorphism:
+    It is also known as static polymorphism. This type of polymorphism is achieved by function overloading 
+  
+  2. Runtime polymorphism: 
+    It is also known as Dynamic Method Dispatch, It is a process in which a function call to the overridden method 
+    is resolved at Runtime. This type of polymorphism is achieved by Method Overriding.
+
+3. Name the operators that cannot be overloaded.
+ans : 
+“ . ”      Member access or dot operator
+“ ? : ”    Ternary or conditional operator
+“ :: ”     Scope resolution operator
+“ sizeof ” The object size operator
+“ typeid ” Object type operator
+
+4. How macro execution is faster than a function?
+ans :
+   Macro execution is faster than function execution because in function, 
+   much of time is used to take control from function call to called function and much of time is spent in this process.
+   Whereas in macro expression are directly replaced in the source code.
+
+7. What is DOM?
+ans : 
+   The HTML DOM is a standard object model and programming interface for HTML. It defines:
+   The HTML elements as objects
+
+8. Sort – Sort array elements in ascending or descending order.
+ans : 
+     for (i = 0; i < n-1; i++)    
+        for (j = 0; j < n-i-1; j++)
+           if (arr[j] > arr[j+1])
+             swap(&arr[j], &arr[j+1]);
+
+
+9. How can you sort the elements of the array in descending order?
+
+10. Define precondition and post-condition to a member function.
+ans :
+
+11. What do you mean by Stack unwinding?
+ans : 
+   The process of removing function entries from function call stack at run time is called Stack Unwinding.
+   
+   Stack Unwinding is generally related to Exception Handling. 
+   In C++, when an exception occurs, the function call stack is linearly searched for the exception handler,
+   and all the entries before the function with exception handler are removed from the function call stack.
+
+
+12. If a class is declared without any access modifiers, where may the class be accessed?
+ans : 
+      It will have what called a Default access, and can be access by members in the package.
+
+13. Does a class inherit the constructors of its superclass?
+ans :  
+     No a subclass cannot inherit the constructors of its superclass. 
+     Constructors are special function members of a class in that they are not inherited by the subclass.
+
+14. What is the property of the class?
+ans : Properties are attributes or features that characterize classes. 
+
+15. What is a Null object?
+ans : 
+
+Is XML case-sensitive?
+Benefits of Stored Procedures?
+Can you give an example of a Stored Procedure?
+What is the Program counter?
+What do you mean by static and dynamic modelling?
+What do you mean by active and passive objects?
+When do you use SQL Profiler?
+How can we delete Duplicate row in a table?
+What is the difference between an interface and multiple interfaces?
+What are the steps involved in designing?
+What is the difference between UNIQUE and PRIMARY KEY constraints?
+What the use of the IP address.
+
+
+EXP2....................................................................................................
+
+1. Difference between compiler and interpreter.
+
+ans  : 
+     
+  *   Interpreter translates just one statement of the program at a time into machine code.
+
+      Compiler scans the entire program and translates the whole of it into machine code at once.
+ 
+  *   An interpreter takes very less time to analyze the source code. However, the overall time to execute the process is much slower.
+
+      A compiler takes a lot of time to analyze the source code. However, the overall time taken to execute the process is much faster. 
+
+  *   An interpreter does not generate an intermediary code. Hence, an interpreter is highly efficient in terms of its memory.
+
+      A compiler always generates an intermediary object code. It will need further linking. Hence more memory is needed.
+
+
+2. What are AL/ML and their differences?
+
+ans :   
+  AI : It is the study of how to train the computers so that computers can do things which at present human can do better.
+
+  ML : Machine Learning is said to learn from experience E w.r.t some class of task T and a performance measure P
+       if learners performance at the task in the class as measured by P improves with experiences.
+
+       It work as a computer program that does smart work	                    It is a simple concept machine takes data and learn from data.
+       The goal is to simulate natural intelligence to solve complex problem	The goal is to learn from data on certain task to maximize the performance of machine on this task.
+       AI is decision making.	                                                ML allows system to learn new things from data.
+
+3. Why do we need OOPs?
+ans :  
+    
+    1) OOP provides a clear modular structure for programs
+    2) OOP makes it easy to maintain and modify existing code
+    3) OOP provides a good framework for code libraries where supplied software components 
+         can be easily adapted and modified by the programmer.
+    4) Code Resusablity
+    5) It is suitable for realword problems and real world works
+
+4. What exactly is NLP? Explain for a layman
+
+ans : Natural language processing (NLP) is the ability of a computer program to understand human language as \
+      it is spoken and written -- referred to as natural language. 
+
+      Data preprocessing and algorithm development
+
+      Tokenization
+      Stop word removal
+      Lemmatization
+
+5. What is strong AI and weak AI
+
+6. What is a pointer and how will you declare it?
+ans : 
+     
+     Pointers store address of variables or a memory location. 
+ 
+     To access address of a variable to a pointer, we use the unary operator & (ampersand) that returns the address of that variable.
+     For example &x gives us address of variable x. 
+
+     One more operator is unary * (Asterisk) which is used for two things : 
+        To declare a pointer variable: When a pointer variable is declared in C/C++, there must be a * before its name. 
+
+        To access the value stored in the address we use the unary operator (*) that returns the value of the variable 
+        located at the address specified by its operand. This is also called Dereferencing.
+ 
+ 
+
+
+7. Why did you choose this programming language over other programming languages?
+
+8. Why do you apply to IT, from your respective branch?
+
+9. What are array and linked lists? Explain the difference between them.
+ans : Size, Memory Allocation , Memory Efficiency
+
+10. If you want to insert a node between two linked lists, how will you approach the problem?
+ans : 
+
+11. Static and dynamic memory allocation and then calloc. Malloc
+ans : 
+        A single block of demanded memory is assigned in malloc while multiple blocks of requested memory are allocated by calloc.
+
+        malloc(sizeof(int))   calloc(5, sizeof(int))
+         
+12. Are you familiar with DBMS?
+13. Explain prime number code
+
+
+14. Swap two numbers without using the third variable
+    
+    a=10, b=20;
+    a=a+b; //a=30 (10+20)
+    b=a-b; //b=10 (30-20)
+    a=a-b; //a=20 (30-10)
+    
+15. Explain Polymorphism
+ 
+16. Difference between overloading and overriding
+17. What is Normalisation?
+18. Explain the difference between primary key and foreign key.
+19. What are DDL, DML commands?
+20 . If further, you get an option to choose a project between JAVA or C++ which one would you choose and why?
+
+
+
+
+
+Tell me about yourself?
+Tell me about your projects?
+Tell me about your internships?
+If your internship is of non-tech background, and why do you want to join a tech company?
+Any preferred location?
+Is there any gap in your studies, or any backlogs?
+Are you comfortable relocating?
+Situation-based questions.
+What do you know about Wipro?
+Why IT/Software? (If you are from non CS/IT)

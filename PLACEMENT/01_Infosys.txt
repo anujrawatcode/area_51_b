@@ -1,0 +1,21 @@
+08-08-2021 OA
+25-08-2021 DSE Shortlisting
+25-09-2021 DSE Selected
+
+24  Operating System, Project
+25  Database Management, OOPs, SDLC
+26  DSA, Project
+27  Revision
+
+
+Interviewer: What is SDLC and what are its basic stages?
+
+Me:  SDLC (Software Development Life Cycle) is the process of developing software through business needs, analysis, design, implementation and Release and maintenance. It has 6 phases: Planning And Requirement Analysis, Defining Requirements, Designing Architecture,  Developing Product, Product Testing and Integration ,Deployment and Maintenance Of Product.
+
+Interviewer: What are the different models of SDLC?
+
+Me: Waterfall model, Agile model, Iterative model, Spiral model etc.
+
+Interviewer: Explain Waterfall model.
+
+Me: Explained.

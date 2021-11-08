@@ -1,0 +1,310 @@
+08-10-21 FAILED OA
+
+08-09-21 Register
+
+Amazon SDE intern
+
+
+
+1st Round 
+
+• Code debugging          7 debugging questions 20min.
+• Coding test             2 coding questions 70min
+• Workstyles assessment
+• Reasoning ability      Easy  24 questions in 30 minutes.
+
+
+2nd Interview
+
+Interview shortlist students will have 2 rounds of virtual interviews for the 6-month intern 
+profile.However, each round is an elimination round and based on the performance 2nd round of
+virtual interview will be scheduled.
+
+Striver DSA
+
+
+
+1. Code Debugging ....................................................... 7Q -> 20min
+https://towardsdatascience.com/amazons-internship-and-full-time-interview-guide-af3c20455e15
+
+https://www.yumpu.com/en/document/read/64651084/cognizant-automata-fix-16th-oct-2020-all-31-solved-questions
+
+https://codewindow.in/automata-fixing-2/
+  
+  08-Sept  
+
+        https://www.youtube.com/watch?v=sHoVeS46xGA          
+
+        
+  
+  09-Sept
+        
+        https://prepinsta.com/cognizant/code-debugging/
+
+        https://www.faceprep.in/cognizant/cognizant-automata-fix-questions/
+
+
+2. Reasoning 
+
+3. Coding Test
+
+   https://www.coursehero.com/tutors-problems/Python-Programming/29049910-Amazon-Fresh-is-a-grocery-delivery-service-that-offers-consumers-the-o/
+
+   https://leetcode.com/discuss/interview-question/1033264/amazon-oa-1-year-experienced-for-sde1
+
+   https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-1-13/
+
+   https://www.coursedeep.com/product/solved-problem-test-casesoutput-java-05m-10s-current-selected-programming-language-java-emphasize-q35149158/
+
+   https://github.com/kaushal02/interview-coding-problems/blob/master/turnstile.cpp
+
+   
+
+  
+   09-Sept   https://leetcode.com/discuss/interview-question/1447020/Amazon-SDE-Intern-OA-Questions 
+
+   10-Sept   https://leetcode.com/discuss/interview-question/1440337/Amazon-or-OA-or-Intern
+
+   18-08-21  https://leetcode.com/discuss/interview-question/710751/Amazon-or-OA
+       
+
+Interview Experience
+
+1. https://www.geeksforgeeks.org/amazon-sde-intern-experience/
+
+* Next Greater Element
+* Mirror of Binary Tree
+* Connect N Ropes with minimum cost
+
+2. https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-intership/
+
+* Sort 0 1 2
+* Given a 2-D array containing 0s & 1s in ascending order in each row. Find the array which has the most 1s.
+* Given a binary tree in which the leaf nodes point to the adjacent leaf nodes and vice versa.
+  Find if the given node is a leaf node or not. 
+    This can be solved by traversing the tree and checking 
+      if( node->left->right==node || node->right->left==nod) 
+          return true;
+
+3. https://www.geeksforgeeks.org/amazon-internship-interview-experience-on-campus-2021/
+
+* No of Island
+
+4. https://www.geeksforgeeks.org/amazon-interview-set-96-campus-internship/
+
+*  Convert a BST into inorder, preorder and postorder linkedlists inplace.
+*  Make a queue out of 2 stacks, as it was easy he asked me to code and asked me the complexities
+*  Given a linked list with a loop find the loop and make it straight .
+   I did with HashMap but he told me not to use extra space so i told him floyd’s cycle.
+
+*  Given a Binary tree convert into a BST 
+*  Given an infinite stream of characters find the first non repeating character at any instance
+*  print all the binary values of number from 1 to n
+
+5. https://www.geeksforgeeks.org/amazon-interview-experience-set-333-internship/
+
+*  Extract Maximum
+*  459. Repeated Substring Pattern
+*  Delete a node from circular doubly linked list
+*  Stock buy and sell
+
+6. https://www.geeksforgeeks.org/amazon-interview-experience-set-289-on-campus-for-internship/
+
+*  https://leetcode.com/problems/3sum/
+*  https://www.geeksforgeeks.org/print-bst-keys-in-the-given-range/
+*  https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+*  https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
+*  https://leetcode.com/problems/cousins-in-binary-tree/
+
+7. https://www.geeksforgeeks.org/amazon-interview-experience-for-internship-2021-on-campus/
+
+*  https://www.geeksforgeeks.org/probability-of-collision-between-two-trucks/
+*  link
+
+
+
+
+
+Problem 1 :  The function/method count Digits return an integer representing the remainder when the 
+             given  number is divided by the number of digits in it. 
+             
+             Solution : temp
+
+Probelm 2 :  
+a
+ab
+abc
+abcd          Solution : printf(“%c”,print++);
+
+Problem 3 :   The function/method removeElement prints space seperated integer that remains after
+              removing the integer at the given index from the input list.
+
+              Solution : inputList[i] = inputList[i + 1]; 
+
+Probelm 4:    The function calculateMatrixSum(int ** matrix, int m, int n) accepts a two dimensional array
+              matrix of dimensions m, n as input and returns the sum of odd elements whose ith and jth index 
+              are same.
+
+              solution : if(matrix[i][j]%2!=0)
+
+Problem 5:    The function/method sortArray modify the input list by sorting its elements in descending order.
+              It accepts two arguments-len,representing the length of the list and arr, a list of integers
+              representing the input list respectively.
+              
+              solution : if( max < arr[j] )     descending order
+
+Problem 6:    The function/method replace Values is modifying the input list in such a way – if the length
+              of the input list is odd, then all the elements of the input list are supposed to be replaced 
+              by 1s and in case it is even, the elements should be replaced by 0s.
+
+              Solution : i+=1 ans j+=1
+
+Problem 7:    The function productMatrix accepts a two dimensional array matrix of dimensions m, n as input 
+              and returns the sum of odd elements whose ith and jth index are same.
+
+              Solution : if((i==j) && matrix[i][j]%2!=0)
+
+                         if(flag==0)
+                            return 0;
+
+Problem 8:   The function maxReplace is supposed to replace every element of the input array arr with the maximum
+             element of arr.
+
+             Solution : for(i=0;i<size;i++)
+                          
+Problem 9:   The function/method sumElement return an integer representing the sum of the elements in the input 
+             array that are greater than twice the input number K and present at the even index.  
+
+             Solution : if( && i%2==0)
+
+Problem 10:  The function/method manchester: for each element in the input array arr, a counter is incremented 
+             if the bit arr[i] is same as arr[i-1]. Then the increment counter value is added to the output array
+             to store the result.
+
+             Solution : result = (arr[i]==1);
+
+Problem 11:  The function/method printFibonacci accepts an integer num, representing a number. The function/method
+             printFibonacci prints first num numbers of fibonacci series.
+
+             Solution :   num1=num2;
+                          num2=sum;
+
+Problem 12:  The function/method selectionSortArray performs an in-place selection sort on the given input list
+             which will be sorted in ascending order.
+
+             Solution : if (arr[index_of_min] > arr[x]) not arr[y]
+                        
+Probelm 13: The function/method descendingSortArray performs an in-place sort on the given input list which will 
+            be sorted in descending order. 
+  
+            Solution : id(arr[i]<arr[j]) not >
+
+Problem 14: 
+
+1
+11
+111
+1111        Solution :  for (j = 0; j <= i; j++);
+
+
+Problem 15:  Lisa always forgets her birthday which is on the 5th of july. So,develop a function/method which will
+             be helpful to remember her birthday.
+
+            Solution : if(strcmp(month,”July”)) && (day==5))
+
+Problem 16:  The function/method sameElementCount returns an integer representing the number of elements of the
+             input list which are even numbers and equal to the element to its right. 
+
+             Solution : if((inputList[i]%2==0)&&(inputList[i]==inputList[i+1]) not [i++]
+          
+Problem 17: The function/method manchester: for each element in the input array arr, a counter is incremented if
+            the bit arr[i] is same as arr[i-1]. Then the element of the list is 0, otherwise 1.
+
+            Solution : res[i] != (arr[i]==arr[i-1]);
+
+problem 18: 
+11
+1111
+111111
+11111111    for (j = 1; j <= 2 * i; j++);
+
+Problem 19: The function/method countOccurence return integer representing the count of occurence of given value
+            in input list.
+
+            Solution : i++ of wile loop
+
+Problem 20:  You are given predefined structure Time containing hour,minute and second as members. 
+
+            Solution whole code
+
+Problem 21: The function findMaxElement(int *arr1,int len1,int *arr2,int len2) accepts twointeger arrays 
+            arr1,arr2 of length len1,len2 respectively.It is supposed to return the largest element in both
+            the input arrays.
+
+            Solution : 
+
+Problem 22: The function allExponent(int base,int exponent)accepts two integers base and exponent as inputs.
+            it is supposed to calculate and return of exponentation of base raised to power exponent for all
+            input values.
+             
+            Solution : res = 1/((float)positiveExponent(base,-(exponent)));
+
+Problem 23: You are given a predefined structure Point and related functions.The function/method isTriangle
+            which accepts three points P1,P2,P3 as inputs and checks whether the given three points form a 
+            triangle. 
+
+            Solution : int a = P1.X*(P2.Y-P3.Y)+P2.X*(P3.Y-P1.Y)+P3.X*(P1.Y-P2.Y);
+                       (a==0)? 0 : 1;
+
+Problem 24: Charlie has a magic mirror. The mirror shows right rotated versions of a given word.
+
+Problem 25:  You are given a predefined structure Point and related functions.The function/method isRightTriangle
+              which accepts three points P1,P2,P3 as inputs and checks whether the given three points form a 
+              right angled triangle.
+
+Problem 26:  The function/method median accepts two arguments-size and inputList,an integer representing the 
+             length of a list and a list of integers respectively. It is supposed to calculate and return
+             an integer representing the median of elements in the input list. However the function/method 
+             median works only for odd-length lists because of incomplete code.
+
+Problem 27:  The function/method matrixSum returns an integer representing the sum of elements of the input
+             matrix.
+
+             Solution : sum+=matrix[i][j];
+
+Problem 28:  The function/method countElement return an integer representing the number of elements in the input 
+             list which are greater than twice the input number K.
+
+             Solution : count+=1;
+
+Problem 29:  The function/method deleteNonRepeat accpets two arguments-size, an integer representing the size of
+             the list and inputList, representing the list of integers.
+
+             Solution : printf(“%d”,inputList[]);
+
+Problem 30:  The function/method multiplyNumber returns an integer representing the multiplicative product of the
+             maximum two of three numbers. It accepts three integers- numA,numB,and NumC,representing the input
+             numbers.
+
+             Solution : result = (max * int mid);
+
+Problem 31:
+a
+ab
+abc
+abcd
+abcde          Solution : for(int i=1;
+
+Problem 32 : “Red”,”Black”,”White”,”Green” respectively for any other values of num it should print “No color”. 
+              The method complies fine but fails to return the desired results for some cases. Your
+              
+              case 1: 
+                 printf(“red”);
+                 break;
+
+Problem 33:   The Function reverseArray(intarr[])of class sort Array arr of an arguments 
+              
+              solution :   len--;
+
+
+

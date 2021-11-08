@@ -1,0 +1,34 @@
+Interview on 11-10-21
+
+Selected
+
+11.5 ctc
+
+https://www.geeksforgeeks.org/teradata-recruitment-process/
+
+Teradata conducts 6-7 rounds to select freshers as
+C/C++ development and functional testing in their organisation.
+
+Written Round                         45 min
+Technical Round 1                     30 min
+Technical Round 2                     50 min
+Technical Round – Machine learning    (optional)
+Manager Round
+HR Round
+
+Round 1 :
+
+C, DS, OS, CO&A, bit manipulation and pointer arithmetic.
+
+There was total 20 objective questions from C/C++ and OS. Questions was Easy and medium level. 
+Those who have solve 16+ correct questions cracked first round. There is no –ve Marking.
+
+Operating system, C, C++, Data Structures and algorithms.
+
+20 MCQs in a time limit of 40 mins. Questions were from DS, OS, Computer Organisation, Recursion, C.
+The level of the questions was medium to hard. Conceptual clarity is a must to crack this round. 
+
+
+Interview 
+Interview Experience 
+
